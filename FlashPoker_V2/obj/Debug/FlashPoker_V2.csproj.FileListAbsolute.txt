@@ -1,0 +1,18 @@
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe.config
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.pdb
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.csprojResolveAssemblyReference.cache
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.exe
+c:\users\game developer\documents\visual studio 2015\Projects\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.pdb
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe.config
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.exe
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.pdb
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.pdb
+H:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.csprojResolveAssemblyReference.cache
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe.config
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.exe
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.pdb
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\obj\Debug\FlashPoker_V2.csprojResolveAssemblyReference.cache
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.exe
+E:\Visual Studio\FlashPoker_V2\FlashPoker_V2\bin\Debug\FlashPoker_V2.pdb
